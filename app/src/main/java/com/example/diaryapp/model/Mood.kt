@@ -91,3 +91,4 @@ enum class Mood(
         containerColor = TenseColor
     )
 }
+//In Kotlin, an enum class is a special class that represents a group of constants. Each constant is an instance of the enum class.
